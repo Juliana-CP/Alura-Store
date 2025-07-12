@@ -17,7 +17,7 @@ O projeto propõe a resolução do desafio Alura Store, onde experimentei direta
 
 :heavy_check_mark: **Análise**: Analisar dados de vendas, desempenho e avaliações das 4 lojas fictícias da Alura Store. O objetivo foi identificar a loja com menor eficiência e apresentar uma recomendação final baseada nos dados.
 
-## 📱Tecnicas utilizadas
+## Tecnicas utilizadas
 
 :heavy_check_mark: **Biblioteca Pandas**: Carregar e manipular dados CSV com a biblioteca Pandas.
 
